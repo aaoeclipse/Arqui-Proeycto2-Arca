@@ -1198,7 +1198,7 @@
           <bounds x="228" y="48" width="277" height="277"/>
           <sourceConnection xsi:type="archimate:Connection" id="75b3ff70-72d6-4df1-97f3-1396a07aa967" source="401d1d13-a9d9-4d49-9773-f63b75de7dca" target="892b89f3-9082-493c-9d07-92dd94cf176a" archimateRelationship="0661bd2a-84bc-47c9-9f94-03b1b87f5984"/>
           <child xsi:type="archimate:DiagramObject" id="01ee04ec-323d-4a76-bade-cb11a4602320" archimateElement="9daaee4e-c86c-4921-93f1-8af01e22605b">
-            <bounds x="84" y="132" width="120" height="55"/>
+            <bounds x="60" y="168" width="120" height="55"/>
           </child>
           <child xsi:type="archimate:DiagramObject" id="f14ce383-d0b8-4352-91c5-3214ad7794b6" archimateElement="c7f9cb1b-4937-4a70-9677-eb941a936d7d">
             <bounds x="84" y="48" width="120" height="55"/>
